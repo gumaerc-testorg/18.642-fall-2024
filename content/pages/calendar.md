@@ -92,15 +92,15 @@ Peter Kempthorne
 
 **Lecture 15**
 
-Student Presentations of [Mid-semester Group Project](https://draft.ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/)
+Student Presentations of {{% resource_link "b83454ab-ce26-4932-a194-8e388724da38" "Mid-semester Group Project" %}}
 
 **Lecture 16**
 
-Student Presentations of [Mid-semester Group Project](https://draft.ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/)
+Student Presentations of {{% resource_link "b83454ab-ce26-4932-a194-8e388724da38" "Mid-semester Group Project" %}}
 
 **Lecture 17**
 
-Student Presentations of [Mid-semester Group Project](https://draft.ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/)
+Student Presentations of {{% resource_link "b83454ab-ce26-4932-a194-8e388724da38" "Mid-semester Group Project" %}}
 
 **Lecture 18**
 

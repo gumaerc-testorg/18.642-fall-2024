@@ -15,8 +15,8 @@ Lecture 4: Linear Algebra (cont.); Probability (video link)
 
 Suggested Readings:
 
-- Lintner, John. “*The Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets*.” *The Review of Economics and Statistics* 47, no. 1 (1965): 13–37. [https://doi.org/10.2307/1924119](https://doi.org/10.2307/1924119)
-- Lintner, John. “*Security Prices, Risk, and Maximal Gains From Diversification.*” *The Journal of Finance* 20, no. 4 (1965): 587–615. [https://doi.org/10.2307/2977249](https://doi.org/10.2307/2977249)
+- Lintner, John. “*The Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets*.” *The Review of Economics and Statistics* 47, no. 1 (1965): 13–37. {{% resource_link "894cfa7e-aa8c-4392-8c19-63ff1dedc3a2" "https://doi.org/10.2307/1924119" %}}
+- Lintner, John. “*Security Prices, Risk, and Maximal Gains From Diversification.*” *The Journal of Finance* 20, no. 4 (1965): 587–615. {{% resource_link "88233a56-8f86-4b0d-a4b8-f09ebbff5739" "https://doi.org/10.2307/2977249" %}}
 
 See {{% resource_link "3eb7e749-a941-4dd8-a950-c3462ea24e08" "Problem Set 2" %}} , due one day after Lecture 7
 

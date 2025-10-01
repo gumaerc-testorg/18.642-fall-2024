@@ -15,11 +15,11 @@ Lecture 19: Volatility Modeling (video link)
 
 Case Study: Volatility Modeling (PDF)
 
-Read: Garman, Mark B., and Michael J. Klass. “On the Estimation of Security Price Volatilities from Historical Data.” *The Journal of Business* 53, no. 1 (1980): 67–78. [http://www.jstor.org/stable/2352358.](http://www.jstor.org/stable/2352358.)
+Read: Garman, Mark B., and Michael J. Klass. “On the Estimation of Security Price Volatilities from Historical Data.” *The Journal of Business* 53, no. 1 (1980): 67–78. {{% resource_link "19fed277-3ecd-4694-b2bc-4da4a64d12e2" "http://www.jstor.org/stable/2352358." %}}
 
 Read: Petneházi, Gábor & Gáll, József. (2019). "Exploring the predictability of range‐based volatility estimators using recurrent neural networks. Intelligent Systems in Accounting." *Finance and Management.* 26. 10.1002/isaf.1455.
 
-Read: Rogers, L. C. G., and S. E. Satchell. “Estimating Variance From High, Low and Closing Prices.” *The Annals of Applied Probability* 1, no. 4 (1991): 504–12. [http://www.jstor.org/stable/2959703](http://www.jstor.org/stable/2959703).
+Read: Rogers, L. C. G., and S. E. Satchell. “Estimating Variance From High, Low and Closing Prices.” *The Annals of Applied Probability* 1, no. 4 (1991): 504–12. {{% resource_link "6983a09e-8e69-40f3-a8d5-28ef15e56fdd" "http://www.jstor.org/stable/2959703" %}}.
 
 ## Lecture 20
 

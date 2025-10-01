@@ -7,7 +7,7 @@ uid: a85a4369-2116-44be-ab1b-13d8242c7690
 ---
 ## Lecture 17
 
-This class session was devoted to student presentations of their [mid-semester group project](https://draft.ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/pages/group-project/).     
+This class session was devoted to student presentations of their {{% resource_link "b83454ab-ce26-4932-a194-8e388724da38" "mid-semester group project" %}}.     
 Note: The student presentations are not available to OCw learners.
 
 See {{% resource_link "3eb7e749-a941-4dd8-a950-c3462ea24e08" "Problem Set 5" %}}

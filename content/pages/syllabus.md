@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) (or approval of instructor), [*18.05 Introduction to Probability and Statistics*](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) or *1*[*8.600 Probability and Random Variables*](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/), and [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+{{% resource_link "12e9e644-ff5b-496a-9258-8fc239afe262" "*18.03 Differential Equations*" %}} (or approval of instructor), {{% resource_link "dff3eb06-2cf1-4ff2-bd26-2022ccb20f4d" "*18.05 Introduction to Probability and Statistics*" %}} or *1*{{% resource_link "7e596170-142b-4272-9742-02d75d3d2d80" "*8.600 Probability and Random Variables*" %}}, and {{% resource_link "21eee94a-dcee-4e21-a6b1-2bcd3d89df17" "*18.06 Linear Algebra*" %}}
 
 Broad familiarity with linear algebra, statistics, stochastic processes and partial differential equations will be helpful (but not required). Prior knowledge of economics or finance is not required but may be helpful for some lectures.
 
