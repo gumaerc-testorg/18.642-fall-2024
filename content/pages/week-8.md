@@ -29,7 +29,7 @@ Lecture 14: Stochastic Processes II (video link)
 
 {{% resource_link "e545b21c-3782-44f5-891a-2c1fd0459d52" "Hitting Time Density (PDF)" %}}
 
-See the Wikipedia article on "[Reflection principle (Wiener process)](https://en.wikipedia.org/wiki/Reflection_principle_%28Wiener_process%29)"
+See the Wikipedia article on "{{% resource_link "3bd6703c-9d07-4dba-9318-e4b460cd63f7" "Reflection principle (Wiener process)" %}}"
 
 {{% resource_link "44660fd2-caed-449d-8ad3-ae80fa582e3a" "Gamblers Ruin (PDF)" %}}
 
